@@ -42,10 +42,10 @@
 * SQL Server 2017
 ## Authors
 
-* **Vi Chi Thien** - [tvc12](https://github.com/tvc12) 🐶
-* **Nguyen Duy Cuong** - [ndc07](https://github.com/ndc07) 💎
-* **Le Huu Thang** - [lhthang1998](https://github.com/lhthang1998) 🐷
-* **Tran Minh Triet** - [triet1213](https://github.com/triet1213) 🐶
+* **Vi Chi Thien** - [tvc](https://github.com/tvc12) 🐶
+* **Nguyen Duy Cuong** - [ndc](https://github.com/ndc07) 💎
+* **Le Huu Thang** - [lhthang](https://github.com/lhthang) 🐷
+* **Tran Minh Triet** - [triet](https://github.com/triet1213) 🐶
 
 ## License
 
